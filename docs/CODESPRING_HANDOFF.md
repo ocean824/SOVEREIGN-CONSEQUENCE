@@ -1,0 +1,2 @@
+# CodeSpring → Ludus
+Packages specify WP/requirements, simulation schema/version, objective/non-goals, dependencies, docs, targets, acceptance, invariant/AI/load/save/editor/security tests and rollback. Sync active context to `Docs/XYRA`; branch `feature/SOV-WP-XXXX`; Git/LFS assets. Independent XYRA review gates promotion.
